@@ -125,9 +125,9 @@ exports.uangkau = (pushname, sender, uangkau) => {
 
 exports.donasi = () => {
 return`*DONASI KAK*
-Pulsa : 0812-1444-1027
-Gopay : 0855-5924-0360
-Dana : 0855-5924-0360
+Pulsa : 088246225077
+Gopay : 0895389760502
+Dana : 0895389760502
 
 Donasi supaya bot terus update & Aktif`
 }
